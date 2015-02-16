@@ -1,0 +1,8 @@
+bin\Debug\VisualIntelligentScissors.exe
+bin\Debug\VisualIntelligentScissors.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VisualIntelligentScissors.frmMain.resources
+obj\Debug\VisualIntelligentScissors.Properties.Resources.resources
+obj\Debug\VisualIntelligentScissors.csproj.GenerateResource.Cache
+obj\Debug\VisualIntelligentScissors.exe
+obj\Debug\VisualIntelligentScissors.pdb
