@@ -10,3 +10,14 @@ C:\Users\dnorth2\workspace\IntelligentScissors\visualIntelligentScissors\obj\Deb
 C:\Users\dnorth2\workspace\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.csproj.GenerateResource.Cache
 C:\Users\dnorth2\workspace\IntelligentScissors\visualIntelligentScissors\bin\Debug\Priority Queue.dll
 C:\Users\dnorth2\workspace\IntelligentScissors\visualIntelligentScissors\bin\Debug\Priority Queue.pdb
+C:\Users\Daniel North\workspace\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.exe
+C:\Users\Daniel North\workspace\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.pdb
+C:\Users\Daniel North\workspace\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.csprojResolveAssemblyReference.cache
+C:\Users\Daniel North\workspace\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.frmMain.resources
+C:\Users\Daniel North\workspace\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.Properties.Resources.resources
+C:\Users\Daniel North\workspace\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.csproj.GenerateResource.Cache
+C:\Users\Daniel North\workspace\IntelligentScissors\visualIntelligentScissors\bin\Debug\VisualIntelligentScissors.exe
+C:\Users\Daniel North\workspace\IntelligentScissors\visualIntelligentScissors\bin\Debug\VisualIntelligentScissors.pdb
+C:\Users\Daniel North\workspace\IntelligentScissors\visualIntelligentScissors\bin\Debug\Priority Queue.dll
+C:\Users\Daniel North\workspace\IntelligentScissors\visualIntelligentScissors\bin\Debug\Priority Queue.pdb
+C:\Users\Daniel North\workspace\IntelligentScissors\visualIntelligentScissors\bin\Debug\VisualIntelligentScissors.exe.config
